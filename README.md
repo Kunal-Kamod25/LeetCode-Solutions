@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -38,9 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
