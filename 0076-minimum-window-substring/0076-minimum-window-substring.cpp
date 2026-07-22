@@ -23,7 +23,7 @@ public:
             freq[s[right]]--;
             right++;
 
-            // Window is valid
+            // Window is valid k
             while (count == 0) {
 
                 if (right - left < minLen) {
