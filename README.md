@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kunal-Kamod25/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
